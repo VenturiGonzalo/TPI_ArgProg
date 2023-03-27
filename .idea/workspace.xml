@@ -35,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/UTN/TPI/Pablo/TPI_ArgProg/src/datos/partidos.csv",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
@@ -42,6 +43,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TPI_ArgProg" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\UTN\TPI\Pablo\TPI_ArgProg\src\datos\partidos.csv&quot; &quot;C:\UTN\TPI\Pablo\TPI_ArgProg\src\datos\pronosticos.csv&quot;" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
